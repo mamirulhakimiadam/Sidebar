@@ -1,0 +1,16 @@
+<div class="sidebar">
+    <h2>Topics</h2>
+    <a href="#lesson1">Lesson 1 - HTML Learning</a>
+    <a href="#html-links">HTML Links</a>
+    <a href="#insert-picture">Insert Picture</a>
+    <a href="#font-color">Change Font Color</a>
+    <a href="#bold-text">Bold Text</a>
+    <a href="#change-size">Change Size</a>
+    <a href="#horizontal-line">Horizontal Line</a>
+    <a href="#pre-function">Function for "pre"</a>
+    <a href="#background-color">Background Color</a>
+    <a href="#text-highlight">Text Highlight</a>
+    <a href="#change-font">Change Font</a>
+    <a href="#text-alignment">Text Alignment</a>
+    <a href="#font-notes">Font Notes</a>
+</div>
