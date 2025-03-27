@@ -1,0 +1,32 @@
+.sidebar {
+    width: 250px;
+    background: #151526;
+    color: white;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+    overflow-y: auto;
+    transition: width 0.3s;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.sidebar h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #5757a2;
+    margin-bottom: 15px;
+}
+.sidebar a {
+    display: block;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    transition: 0.3s;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.sidebar a:hover, .sidebar a.active {
+    background: #5757a2;
+}
